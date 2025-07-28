@@ -33,3 +33,8 @@ Open exploratory_data_analysis.ipynb in Google Colab
 Upload the dataset (provided in data folder)
 
 Run cells sequentially to view analysis and visualizations
+
+**Number of members**
+Praveen agrawal
+Sakshi Vedi
+
